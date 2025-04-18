@@ -1,3 +1,7 @@
+! проблема в блоке https://github.com/bioAI-Lab/machine-learning-Kokorinka/blob/41d830ffcdb29f0b6b727e90730d806ac69b7c85/%D0%9A%D0%BE%D0%BF%D0%B8%D1%8F_%D0%B1%D0%BB%D0%BE%D0%BA%D0%BD%D0%BE%D1%82%D0%B0_%22%D0%9C%D0%B0%D1%88%D0%B8%D0%BD%D0%BD%D0%BE%D0%B5_%D0%BE%D0%B1%D1%83%D1%87%D0%BD%D0%B8%D0%B5_pynb%22.ipynb
+Преобразование в класс сделано неверно, соответственно классификация выполнена не верно.
+
+
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=19168175&assignment_repo_type=AssignmentRepo)
 # Структура данных [data_practice](https://github.com/bioAI-Lab/ML_practice1/blob/main/data_practice.csv)
 
